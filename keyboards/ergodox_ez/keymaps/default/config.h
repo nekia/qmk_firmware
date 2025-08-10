@@ -1,0 +1,4 @@
+#define USB_SUSPEND_WAKEUP_DELAY 0
+#define SERIAL_NUMBER "xmnb5/Mazovb"
+#define LAYER_STATE_8BIT
+
